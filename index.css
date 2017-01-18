@@ -26,7 +26,7 @@ footer .copyright {
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: black;
     border: solid 2px #f4ee42;
-    border-radius: 25px;
+    border-radius: 25px !important;
 }
 
 .information-button:hover, .information-button:focus  {
@@ -34,6 +34,7 @@ footer .copyright {
     color: black;
     border-radius: 25px;
 }
+
 #Title{
     font-family: 'Permanent Marker', cursive;
 }
