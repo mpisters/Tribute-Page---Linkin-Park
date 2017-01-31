@@ -25,18 +25,20 @@ footer .copyright {
     font-size: 20px;
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: black;
-    border: solid 2px #f4ee42;
+    border: solid 2px #008c01;
     border-radius: 25px !important;
 }
 
 .information-button:hover, .information-button:focus  {
-    background-color: #f4ee42;
+    background-color: #008c01;
     color: black;
     border-radius: 25px;
 }
 
 #Title{
     font-family: 'Permanent Marker', cursive;
+    font-size:80px;
+    text-align: center;
 }
 
 body {
@@ -177,7 +179,7 @@ hr.small {
 .intro-header .post-heading,
 .intro-header .site-heading {
     padding: 100px 0 50px;
-    color: #f4ee42;
+    color: #008c01;
 }
 .intro-header .page-heading h1,
 .intro-header .site-heading h1 {
@@ -189,7 +191,7 @@ hr.small {
     font-size: 24px;
     line-height: 1.1;
     display: block;
-    font-weight: 300;
+    font-weight: 500;
     margin: 10px 0 0
 }
 @media only screen and (min-width: 768px) {
